@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Ej1Hoja8{
     public static void main(String[] args) {
-        Scanner teclado=new Scanner(System.in);
+        Scanner teclado=new Scanner(Syste.in);
 						
 			for(int i=1;i<=5;i++) {
 				escribirTabla(i);
